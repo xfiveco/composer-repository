@@ -1,0 +1,23 @@
+{
+  "name": "custom-composer-repository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xfiveco/composer-repository.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xfiveco/composer-repository/issues"
+  },
+  "homepage": "https://github.com/xfiveco/composer-repository#readme",
+  "dependencies": {
+    "async": "^2.1.2",
+    "github-api": "^2.3.0"
+  }
+}
