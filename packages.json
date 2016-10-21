@@ -1,0 +1,28 @@
+{
+  "packages": {
+    "xfiveco/gravityforms": {
+      "dev-master": {
+        "name": "xfiveco/gravityforms",
+        "version": "dev-master",
+        "type": "wordpress-plugin",
+        "source": {
+          "url": "https://github.com/wp-premium/gravityforms",
+          "type": "git",
+          "reference": "1be75336849d11b8e6da685a61e9b101a5b043ef"
+        }
+      }
+    },
+    "xfiveco/advanced-custom-fields-pro": {
+      "dev-master": {
+        "name": "xfiveco/advanced-custom-fields-pro",
+        "version": "dev-master",
+        "type": "wordpress-plugin",
+        "source": {
+          "url": "https://github.com/wp-premium/advanced-custom-fields-pro",
+          "type": "git",
+          "reference": "e6741d2048295d6780a8cc81696a36973db65096"
+        }
+      }
+    }
+  }
+}
